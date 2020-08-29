@@ -50,8 +50,8 @@
     "player"
   ],
   "dependencies": {
-    "video.js": ">=7.0.5",
-    "wavesurfer.js": ">=4.0.1"
+    "video.js": "file:../video.js",
+    "wavesurfer.js": "file:../wavesurfer.js"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
